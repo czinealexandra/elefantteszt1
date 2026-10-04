@@ -1,0 +1,30 @@
+<!DOCTYPE html>       
+<html lang="hu"> 
+<head> 
+
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Elefánt</title> 
+    <link href="stilus.css" rel="stylesheet" type="text/css"> 
+    <meta name="description" content="elefánt, állat, nagytestű, szürke, természet, vadon">     
+    <meta name="keywords" content="elefánt, állat, nagytestű, szürke, természet, vadon">
+    <meta name="author" content="Czine Aleexandra Lili">
+
+</head>
+<body>
+
+        <h1>NAGY LAJOS<br>A KÉPTELEN TERMÉSZETRAJZ</h1>
+    <H2>AZ ELEFÁNT (RÉSZLET)</H2>
+    <img src="kepek/elefant_es_krokodil.jpg" alt="Elefánt és krokodil">
+    <P>Az elefánt a legnagyobb szárazföldi állat, de csak a felnőtt elefánt, mert egy igen kis elefánt például jóval kisebb, mint egy igen nagy víziló. Az elefánt úgynevezett állatkertekben fordul elő, a föld minden nagyobb városában, amiért is az elefánt hazája széles e világ, amiben a művészhez hasonlít. Állatkert nélkül csakis Indiában és Afrikában fordul elő, amiért is azok, akik elefántvadászatra indulnak Pilisvörösvárra, kénytelenek néhány nyúllal beérni.
+    </P>
+    <H2>MEDDIG ÉL EGY ELEFÁNT?</H2>
+    <img src="kepek/elefant.jpg" alt="Elefánt">
+    <P>Az elefántot robbanó golyóval vadásszák, amire nagyon dühös. Életkora igen magas, egy tudós egyszer sokáig figyelt egy elefántot, amint az kétszáz évet élt egyfolytában. Persze előbb is meghalhat, de csak akkor, ha valami olyan különös baj történik vele, amit egy elefánt se bír ki.
+    </P>
+    <H2>Az elefánt és a fürdés</H2>
+    <img src="kepek/saroselefant.jpg" alt="Sáros elefánt">
+    <P>Az elefánt igen sajátságosan iszik, beledugja ormányát a vízbe, éppen úgy, mint a nagyorrú kávénénikék a kávéba, de aztán a kávénénikéktől eltérőleg teleszívja az ormányát, és azt nem hagyja csak úgy visszacsöpögni a kötényére, hanem igenis belespricceli a szájába, amiben bizony a disznóhoz hasonlít, nem mintha a disznó is így tenne, hanem mert ez már mégiscsak illetlenség. </P>
+
+</body>
+    
